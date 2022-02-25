@@ -7,8 +7,8 @@
 ### Interest
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
-
+<!-- [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward) -->
+(https://github.com/JSL107/web-miniproject)
 ### Languages and Tools
 
 <p>
