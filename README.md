@@ -9,9 +9,9 @@
 ### Latest Projects
 <!-- [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward) -->
 (https://github.com/JSL107/web-miniproject)
-### Languages and Tools
 
-<!--  tag -->
+### Languages and Tools
+<!--tool-->
 <p>
 <!-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
@@ -22,7 +22,7 @@
 </p> -->
 
 
-<!--  사용 언어 이미지-->
+<!--language-->
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
 
