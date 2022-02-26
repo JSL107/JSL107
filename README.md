@@ -1,12 +1,12 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-__________________________________________________________________________
+
 ## About me
 ### I'm Lee, Junior Developer :smiley:
 ### from :kr: Seoul, Republic of Korea 
-__________________________________________________________________________
+
 ## Latest Projects
 (https://github.com/JSL107/web-miniproject)
-__________________________________________________________________________
+
 ## Languages and Tools
 <!--tool-->
 <p>
@@ -17,7 +17,7 @@ __________________________________________________________________________
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> -->
 
-</p> -->
+</p>
 
 
 <!--language-->
@@ -26,6 +26,9 @@ __________________________________________________________________________
 
 </p>
 
+## Connect with me
+
+
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JSL107&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JSL107&layout=compact&show_icons=true&theme=maroongold&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=maroongold&hide_border=true" />
