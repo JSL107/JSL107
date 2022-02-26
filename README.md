@@ -6,8 +6,8 @@
 
 📫 How to reach me :
 <p>
-<a href = "juneseok0107@naver.com"> <img src ="https://img.shields.io/badge/naver-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
-<a href = "juneseok81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "mailto:juneseok0107@naver.com"> <img src ="https://img.shields.io/badge/naver-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
+<a href = "mailto:juneseok81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## Latest Projects
