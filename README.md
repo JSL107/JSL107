@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/Java-323330?style=flat-square&logo=java&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Java-323330?style=flat-square&logo=java&logoColor=#007396" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  	
 </p>
 
 
@@ -28,7 +30,11 @@
 </p>
 
 ## Connect with me
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" height="50"/>
 
+<a href = "https://www.instagram.com/juneseok0107/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50"/>
+</a>
 
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=JSL107&layout=compact&show_icons=true&theme=maroongold&hide_border=true" />
