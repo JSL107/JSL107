@@ -4,6 +4,7 @@
 ### I'm Lee, Junior Developer :smiley:
 ### from :kr: Seoul, Republic of Korea 
 
+📫 How to reach me : juneseok0107@naver.com or juneseok81@gmail.com
 ## Latest Projects
 (https://github.com/JSL107/web-miniproject)
 
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/Java-323330?style=flat-square&logo=java&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Java-323330?style=flat-square&logo=java&logoColor=blue" />
+<img src="https://img.shields.io/badge/Java-323330?style=flat-square&logo=java&logoColor=#007396" />
 </p>
 
 
