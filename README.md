@@ -30,11 +30,11 @@
 </p>
 
 ## Connect with me
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" height="50"/>
-
+<p>
 <a href = "https://www.instagram.com/juneseok0107/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+ </p>
 
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=JSL107&layout=compact&show_icons=true&theme=maroongold&hide_border=true" />
