@@ -11,7 +11,7 @@
 </p>
 
 ## Latest Projects
-<a href = https://github.com/JSL107/React-Mini-project>:bar_chart: Click Me</a>
+<a href = https://github.com/JSL107/Team7>:bar_chart: Click Me</a>
 
 ## Languages and Tools
 <!--tool-->
