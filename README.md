@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?color=random&type=waving&fontSize=40&fontAlign=25&fontAlignY=30&fontColor=ffffff&animation=fadeIn&&descSize=30&height=300&text=𝐻𝒾%20𝐼'𝓂%20𝐿𝑒𝑒&desc=𝒥𝓊𝓃𝒾𝑜𝓇%20𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇%20𝒻𝓇𝑜𝓂%20𝒮𝑒𝑜𝓊𝓁%20𝑅𝑒𝓅𝓊𝓁𝒾𝒸%20𝑜𝒻%20𝒦𝑜𝓇𝑒𝒶&section=header)
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <div align=center>
 
   
