@@ -6,7 +6,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJSL107&count_bg=%2325BC84&title_bg=%23555555&icon=&icon_color=%23A02626&title=number+of+visitors&edge_flat=false)
 
-## 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚
+## 📫 *How to Reach Me*
 <p>
 <a href = "mailto:juneseok0107@naver.com"> <img src ="https://img.shields.io/badge/naver-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
 <a href = "mailto:juneseok81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,11 +14,7 @@
 <br><br><br>
 </p>
 
-## :bar_chart: 𝙇𝙖𝙩𝙚𝙨𝙩 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
-<a href = https://github.com/JSL107/Team7>Latest Projects</a>
-<br><br><br>
-
-## :muscle: 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠𝙨
+## :muscle: *Tech Stacks*
 <p>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
@@ -31,7 +27,7 @@
 </p>
 <br><br><br>
 
-## :computer: 𝘿𝙚𝙫𝙚𝙡𝙤𝙥 𝙏𝙤𝙤𝙡𝙨
+## :computer: *Develops Tool*
 <!--tool-->
 <p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -48,4 +44,17 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=maroongold&hide_border=true" />
   </p>
+  
+  ## :computer: *Problem Solving*
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
+  
+  <p>
+    <img src="http://mazandi.herokuapp.com/api?handle=juneseok0107&theme=dark"/>
+  </p>
+    
+    
   </div>
+  
+
