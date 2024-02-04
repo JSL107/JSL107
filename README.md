@@ -10,7 +10,6 @@
 <p>
 <a href = "mailto:juneseok0107@naver.com"> <img src ="https://img.shields.io/badge/naver-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
 <a href = "mailto:juneseok81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href = "https://www.instagram.com/juneseok0107/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br><br><br>
 </p>
 
