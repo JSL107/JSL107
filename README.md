@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?color=random&type=waving&fontSize=40&fontAlign=20&fontAlignY=30&fontColor=ffffff&animation=fadeIn&&descSize=30&height=300&text=𝐻𝒾%20𝐼'𝓂%20𝐿𝑒𝑒&desc=𝒥𝓊𝓃𝒾𝑜𝓇%20𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇%20𝒻𝓇𝑜𝓂%20𝒮𝑒𝑜𝓊𝓁%20𝑅𝑒𝓅𝓊𝓁𝒾𝒸%20𝑜𝒻%20𝒦𝑜𝓇𝑒𝒶&section=header)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=My%20name%20is%20Lee.&fontAlignY=45&fontSize=40&height=150&animation=fadeIn&desc=I%20am%20Junior%20BackEnd%20Developer.&descAlignY=70)
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 <div align=center>
