@@ -46,16 +46,6 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=maroongold&hide_border=true" />
   </p>
-  
-  ## :computer: *Problem Solving*
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
-  
-  <p>
-    <img src="http://mazandi.herokuapp.com/api?handle=juneseok0107&theme=dark"/>
-  </p>
-    
     
   </div>
   
