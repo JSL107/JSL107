@@ -1,52 +1,38 @@
-
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=My%20name%20is%20Lee.&fontAlignY=45&fontSize=40&height=150&animation=fadeIn&desc=I%20am%20Junior%20BackEnd%20Developer.&descAlignY=70)
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-
-<div align=center>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJSL107&count_bg=%2325BC84&title_bg=%23555555&icon=&icon_color=%23A02626&title=number+of+visitors&edge_flat=false)
-
-## 📫 *How to Reach Me*
-<p>
-<a href = "mailto:juneseok0107@naver.com"> <img src ="https://img.shields.io/badge/naver-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
-<a href = "mailto:juneseok81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br><br><br>
-</p>
-
-## :muscle: *Tech Stacks*
-<p>
+<div align="Left">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>-->
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> -->
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> -->
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--P7DopDP2NLM6ugIUxF0l4B6PxL2DAA-uQ&usqp=CAU" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
-</p>
-<br><br><br>
-
-## :computer: *Develops Tool*
-<!--tool-->
-<p>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
-</p>
-<br><br><br>
-
-
-<!-- status bar -->
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JSL107&layout=compact&show_icons=true&theme=maroongold&hide_border=true" />
-  </p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=maroongold&hide_border=true" />
-  </p>
-    
-  </div>
+### 🎯 2026년 기술적 지향점
+"에이전트 중심의 개발 워크플로우와 고가용성 백엔드 시스템 설계에 집중하고 있습니다."
+현재 Spring과 NestJS를 활용한 분산 아키텍처 및 자동화된 엔지니어링 환경을 탐구 중입니다.
+<br/>
   
+### 🛠 주요 기술 스택 (Backend Core)
+<p>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
+### 💻 개발 도구 (Development Tools)
+<p>
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white" />
+</p>
+
+### 📊 활동 통계
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=JSL107&show_icons=true&theme=maroongold&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=maroongold&hide_border=true" />
+</p>
+
+<p>
+<img src="https://streak-stats.demolab.com/?user=JSL107&theme=maroongold&hide_border=true" />
+</p>
+
+### 📫 Contact
+<p>
+<a href="mailto:juneseok0107@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:juneseok81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+</div>
