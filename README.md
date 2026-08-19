@@ -1,38 +1,33 @@
-<div align="Left">
-  
-### 🎯 2026년 기술적 지향점
-"에이전트 중심의 개발 워크플로우와 고가용성 백엔드 시스템 설계에 집중하고 있습니다."
-현재 Spring과 NestJS를 활용한 분산 아키텍처 및 자동화된 엔지니어링 환경을 탐구 중입니다.
-<br/>
-  
-### 🛠 주요 기술 스택 (Backend Core)
-<p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+## Backend Engineer
 
-### 💻 개발 도구 (Development Tools)
-<p>
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />
-<img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white" />
-</p>
+사람이 반복하던 일을 시스템에 떠넘기는 걸 좋아합니다.
+상담 시스템, POS, 학교 도메인을 거치며 백엔드를 만들어 왔고,
+요즘은 그 "떠넘기기"를 AI 에이전트한테까지 시켜보는 중입니다.
 
-### 📊 활동 통계
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=JSL107&show_icons=true&theme=maroongold&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107&layout=compact&theme=maroongold&hide_border=true" />
-</p>
+**주로 쓰는 것** &nbsp;NestJS · Spring · TypeScript · PostgreSQL · Prisma  
+**요즘 파는 것** &nbsp;LLM 에이전트 오케스트레이션, 승인 게이트가 있는 자동화 파이프라인
 
-<p>
-<img src="https://streak-stats.demolab.com/?user=JSL107&theme=maroongold&hide_border=true" />
-</p>
+---
 
-### 📫 Contact
-<p>
-<a href="mailto:juneseok0107@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+### 만들고 있는 것
+
+**[이대리 · personal_agents](https://github.com/JSL107/personal_agents)**
+Slack 하나에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 봇.  
+슬래시 커맨드 19개와 자연어 멘션, GitHub 웹훅, cron을 한 백엔드로 묶었습니다.  
+외부 시스템에 무언가 쓰기 전에는 항상 Slack에서 ✅ 를 받고 움직입니다.  
+`NestJS · Prisma · BullMQ · pgvector`
+
+**[BINI](https://github.com/JSL107/BINI)**
+게임 원화 채용공고를 5개 사이트에서 긁어 한 화면에 모아주는 잡 보드.  
+사용자 요청 경로와 cron 적재 경로를 갈라놔서, 스크래핑이 느려져도 화면은 안 멈춥니다.  
+`Next.js · NestJS · PostgreSQL · GitHub Actions`
+
+**[개발 블로그](https://jsl107.github.io)**
+Astro로 옮긴 기술 블로그. 삽질하다 배운 것들을 적어둡니다.  
+
+---
+
+<img src="https://streak-stats.demolab.com/?user=JSL107&theme=maroongold&hide_border=true" height="150" />
+
+<a href="https://jsl107.github.io"><img src="https://img.shields.io/badge/Blog-jsl107.github.io-000000?style=flat-square&logo=astro&logoColor=white"/></a>
 <a href="mailto:juneseok81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-</div>
