@@ -1,6 +1,6 @@
 # Backend Engineer
 
-NestJS · TypeScript · PostgreSQL 로 서비스 서버를 만든다.
+월 사용자 90만 명 규모 서비스의 서버를 만듭니다.
 
 <br/>
 
@@ -8,8 +8,8 @@ NestJS · TypeScript · PostgreSQL 로 서비스 서버를 만든다.
 
 Slack 멀티 에이전트 업무 자동화 봇.
 
-PM · 백엔드 · 코드리뷰어 · CTO 를 워커로 나눠, 슬래시 커맨드 19개와 자연어 멘션, GitHub 웹훅, cron 을 한 백엔드로 묶었다.
-과거 작업은 pgvector 로 의미검색해 회상하고, 외부 시스템에 쓰는 동작은 전부 Slack 승인 게이트를 지난다.
+PM · 백엔드 · 코드리뷰어 · CTO 를 워커로 나눠, 슬래시 커맨드 19개와 자연어 멘션, GitHub 웹훅, cron 을 한 백엔드로 묶었습니다.
+과거 작업은 pgvector 로 의미검색해 회상하고, 외부 시스템에 쓰는 동작은 전부 Slack 승인 게이트를 지납니다.
 
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/BullMQ-DD2C00?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Slack_Bolt-4A154B?style=flat-square&logo=slack&logoColor=white" />
